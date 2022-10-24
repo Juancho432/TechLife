@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "techlife:tin_ingot"
+    }
+  },
+  "result": {
+    "item": "techlife:tin_block"
+  }
+}
