@@ -1,0 +1,10 @@
+{
+  "item.techlife.tin_ingot": "Lingote de Estaño",
+  "item.techlife.bronze_plate": "Placa de Bronce",
+
+  "block.techlife.tin_ore": "Mena de Estaño",
+  "block.techlife.tin_block": "Bloque de Estaño",
+
+  "itemGroup.items_tab": "TechLife: Items",
+  "itemGroup.blocks_tab": "TechLife: Bloques"
+}

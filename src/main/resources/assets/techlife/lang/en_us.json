@@ -1,0 +1,10 @@
+{
+  "item.techlife.tin_ingot": "Tin Ingot",
+  "item.techlife.bronze_plate": "Bronze Plate",
+
+  "block.techlife.tin_ore": "Tin Ore",
+  "block.techlife.tin_block": "Tin Block",
+
+  "itemGroup.items_tab": "TechLife: Items",
+  "itemGroup.blocks_tab": "TechLife: Blocks"
+}
