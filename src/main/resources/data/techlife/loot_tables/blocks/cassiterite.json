@@ -7,7 +7,7 @@
       "entries": [
         {
           "type": "minecraft:item",
-          "name": "techlife:tin_ore"
+          "name": "techlife:cassiterite"
         }
       ],
       "conditions": [

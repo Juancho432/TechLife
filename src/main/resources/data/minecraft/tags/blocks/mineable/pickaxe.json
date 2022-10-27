@@ -1,7 +1,7 @@
 {
   "replace": false,
   "values": [
-    "techlife:tin_ore",
+    "techlife:cassiterite",
     "techlife:tin_block"
   ]
 }
