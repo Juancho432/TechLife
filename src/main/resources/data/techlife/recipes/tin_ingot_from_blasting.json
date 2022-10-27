@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:blasting",
+  "ingredient": {
+    "item": "techlife:cassiterite"
+  },
+  "result": "techlife:tin_ingot",
+  "experience": 0.7,
+  "cookingtime": 100
+}

@@ -14,7 +14,7 @@ public class ModCreativeModeTab {
     public static final CreativeModeTab BLOCKS_TAB = new CreativeModeTab("blocks_tab") {
         @Override
         public ItemStack makeIcon() {
-            return new ItemStack(ModBlocks.TIN_ORE.get());
+            return new ItemStack(ModBlocks.CASSITERITE.get());
         }
     };
 }

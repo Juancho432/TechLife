@@ -21,13 +21,12 @@ public class ModBlocks {
             DeferredRegister.create(ForgeRegistries.BLOCKS, TechLife.MOD_ID);
 
 
-    public static final RegistryObject<Block> TIN_ORE = registerBlock("tin_ore",
+    public static final RegistryObject<Block> CASSITERITE = registerBlock("cassiterite",
             ()-> new Block(BlockBehaviour.Properties.of(Material.STONE)
                     .strength(1.5f).requiresCorrectToolForDrops()), ModCreativeModeTab.BLOCKS_TAB);
     public static final RegistryObject<Block> TIN_BLOCK = registerBlock("tin_block",
             ()-> new Block(BlockBehaviour.Properties.of(Material.METAL)
                     .strength(2f).requiresCorrectToolForDrops()), ModCreativeModeTab.BLOCKS_TAB);
-
 
 
 
